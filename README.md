@@ -1,6 +1,6 @@
-### Hi there 👋
+### Welcome to my page 👋
 
-Welcome,
+
 I'm a Graduate of Maker's Academy.
 <!--
 **1ugia/1ugia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
