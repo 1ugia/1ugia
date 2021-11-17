@@ -1,7 +1,9 @@
-### Welcome to my page 👋
+<h1 align="center"> Welcome to my page 👋</h1>
 
 
 I'm a Graduate of Maker's Academy.
+- 📜 This is my <a href="https://github.com/1ugia/CV">CV</a>!
+
 <!--
 **1ugia/1ugia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
